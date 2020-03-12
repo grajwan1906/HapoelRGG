@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416337872809",
+    "firebase_url": "https://urdunbasket-af4f0.firebaseio.com",
+    "project_id": "urdunbasket-af4f0",
+    "storage_bucket": "urdunbasket-af4f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416337872809:android:b66e21e1f3f87eb63ca6b8",
+        "android_client_info": {
+          "package_name": "com.urduns.urdunbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416337872809-hpskqdenfa6vikir1un7u7hce6taauf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG_k3Ee-G73dHo73DHMpjTkLriKmETVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416337872809-hpskqdenfa6vikir1un7u7hce6taauf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
